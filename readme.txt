@@ -1,42 +1,8 @@
-FTacV_SC Executable
+This is an educational simulation for learning FTacV
 
-1. Prerequisites for Deployment 
+Still under construction - please let me know if you find any problems - rafisnitkoff@gmail.com Thanks!!
 
-Verify that MATLAB Runtime(R2022b) is installed.
-If not, you can run the MATLAB Runtime installer.
-To find its location, enter
-  
-    >>mcrinstaller
-      
-at the MATLAB prompt.
-NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
-
-Alternatively, download and install the Windows version of the MATLAB Runtime for R2022b 
-from the following link on the MathWorks website:
-
-    https://www.mathworks.com/products/compiler/mcr/index.html
-   
-For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-"Distribute Applications" in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.
-
-2. Files to Deploy and Package
-
-Files to Package for Standalone 
-================================
--FTacV_SC.exe
--MCRInstaller.exe 
--This readme file 
-
-
-
-3. Definitions
-
-For information on deployment terminology, go to
-https://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
-Center.
+To install please download the "MyAppInstaller_web.exe" file and run it on your PC. It will download Matlab Runtime which is necessary.
 
 
 
