@@ -1,4 +1,4 @@
-This is an educational simulation for learning FTacV of an ideal surface-confined species.
+This is an educational simulation for learning the response of an FTacV measurement conducted on an ideal surface-confined species.
 The numerical simulation is based on the algorithm published in Honeychurch and A.M Bond, Journal of Electroanalytical Chemistry 529 (2002) 3-11 (DOI: https://doi.org/10.1016/S0022-0728(02)00907-5 )
 
 Please DM me know if you find any issues or have suggestions for improvements at rafisnitkoff@gmail.com
